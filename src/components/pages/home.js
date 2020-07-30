@@ -6,9 +6,9 @@ import csslogo from "../assets/css.png";
 import jslogo from "../assets/javascipt.png";
 import nodelogo from "../assets/node.png";
 import cpplogo from "../assets/cpp.png";
-import reactlogo from "../assets/reactlogo.jpg"
+import reactlogo from "../assets/reactlogo.png"
 import vuelogo from "../assets/vuelogo.png"
-import swiftlogo from "../assets/swiftlogo.jpg"
+import swiftlogo from "../assets/swiftlogo.png"
 
 
 function Home(){ 
