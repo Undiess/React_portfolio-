@@ -31,7 +31,7 @@ function Portfolio(){
                                 <br></br>
                                 <br></br>
                                 <br></br>
-                                <a href="https://lodafoneproject.herokuapp.com/"><button className="btn btn-primary " role="button"> Visit site</button></a>
+                                <a href="https://lodafoneproject.herokuapp.com/" target="blank"><button className="btn btn-primary " role="button"> Visit site</button></a>
                             </div>
                     </div>
                 </div>
@@ -45,12 +45,12 @@ function Portfolio(){
                     <div className="golftext">
                                 <h1> Golf App</h1>
                                 <br></br>
-                                <p> A mobile application designed for golfers to assist them on the golf course which includes, compass direction, a score keeper, and current weather.
+                                <p> A mobile application designed for golfers to assist them on the golf course which includes compass direction, a score keeper, and current weather.
                                 </p>
                                 <br></br>
                                 <br></br>
                                 <br></br>
-                                <a href="https://a1718367.github.io/GolfApp/"><button className="btn btn-primary " role="button"> Visit site</button></a>
+                                <a href="https://a1718367.github.io/GolfApp/" target="blank"><button className="btn btn-primary " role="button"> Visit site</button></a>
                             </div>
                     </div>
 
