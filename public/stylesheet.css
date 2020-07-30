@@ -83,7 +83,7 @@
       padding-left: 10%;
   }
   .swift{ 
-      width: 50%;
+      width: 55%;
   }
   .page-footer{
       background-color: #3399ff;
@@ -121,4 +121,67 @@
     padding-top: 50px;
     padding-bottom: 20px;
 
+}
+
+.portfoliorow{ 
+    padding-top: 2%;
+}
+
+.portinnertextbox{
+    padding: 7%;
+    padding-top: 7%;
+    font-size: large;
+}
+.lodafones{
+    background-color: #d988dc;
+   
+    height: 700px;
+   
+}
+.lodafonesimg{ 
+    display: block;
+  margin-left: 25%;
+  margin-right: 40%;
+  width: 50%;
+  margin-top: 10%;
+  border-bottom: lightgrey;
+  border-bottom-style: solid;
+}
+
+.lodafone-textbox{
+    background-color: #d988dc;
+
+}
+
+.lodafonetext{
+     margin-top: 30%;
+     color: white;
+     margin-right: 20%;
+     
+     
+}
+
+.portfoliocontainer{
+    margin-top: 0%;
+    padding-bottom: 0;
+}
+
+
+.golfapp{ 
+    background-color: #339933
+}
+
+.golfimg{ 
+    display: block;
+    margin-left: 45%;
+    margin-right: 40%;
+    width: 40%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.golftext{ 
+    margin-top: 20%;
+    color: white;
+    margin-left: 20%;
 }
