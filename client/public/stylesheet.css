@@ -142,8 +142,8 @@
     display: block;
   margin-left: 25%;
   margin-right: 40%;
-  width: 50%;
-  margin-top: 10%;
+  width: 45%;
+  margin-top: 5%;
   border-bottom: lightgrey;
   border-bottom-style: solid;
 }
@@ -181,7 +181,7 @@
 }
 
 .golftext{ 
-    margin-top: 20%;
+    margin-top: 30%;
     color: white;
     margin-left: 20%;
 }

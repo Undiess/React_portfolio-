@@ -1,0 +1,31 @@
+{
+  "name": "React_portfolio-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "emailjs-com": "^2.6.3",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^3.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "heroku-postbuild"::"cd client && npm install && npm run build",
+  
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Undiess/React_portfolio-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Undiess/React_portfolio-/issues"
+  },
+  "homepage": "https://github.com/Undiess/React_portfolio-#readme"
+}
